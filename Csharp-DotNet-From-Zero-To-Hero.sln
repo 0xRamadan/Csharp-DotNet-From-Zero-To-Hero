@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ep009_OOP_Methods-Part02", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ep010_OPP_Constructor", "Ep010_OPP_Constructor\Ep010_OPP_Constructor.csproj", "{BE25C25A-9E8B-41E5-B14E-77B514A6AD01}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ep011_OPP_Properties", "Ep011_OPP_Properties\Ep011_OPP_Properties.csproj", "{943DC6DE-0B6B-4777-A222-70979EEF7020}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{BE25C25A-9E8B-41E5-B14E-77B514A6AD01}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE25C25A-9E8B-41E5-B14E-77B514A6AD01}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE25C25A-9E8B-41E5-B14E-77B514A6AD01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{943DC6DE-0B6B-4777-A222-70979EEF7020}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{943DC6DE-0B6B-4777-A222-70979EEF7020}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{943DC6DE-0B6B-4777-A222-70979EEF7020}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{943DC6DE-0B6B-4777-A222-70979EEF7020}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
