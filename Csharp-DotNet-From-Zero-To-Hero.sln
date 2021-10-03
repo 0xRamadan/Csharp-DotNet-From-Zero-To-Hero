@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ep009_OOP_Methods_Part01", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ep009_OOP_Methods-Part02", "Ep009_OOP_Methods-Part02\Ep009_OOP_Methods-Part02.csproj", "{B7B8A36B-BB22-4495-9979-30E1D62A310A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ep010_OPP_Constructor", "Ep010_OPP_Constructor\Ep010_OPP_Constructor.csproj", "{BE25C25A-9E8B-41E5-B14E-77B514A6AD01}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{B7B8A36B-BB22-4495-9979-30E1D62A310A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7B8A36B-BB22-4495-9979-30E1D62A310A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7B8A36B-BB22-4495-9979-30E1D62A310A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE25C25A-9E8B-41E5-B14E-77B514A6AD01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE25C25A-9E8B-41E5-B14E-77B514A6AD01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE25C25A-9E8B-41E5-B14E-77B514A6AD01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE25C25A-9E8B-41E5-B14E-77B514A6AD01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
