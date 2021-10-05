@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ep010_OPP_Constructor", "Ep
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ep011_OPP_Properties", "Ep011_OPP_Properties\Ep011_OPP_Properties.csproj", "{943DC6DE-0B6B-4777-A222-70979EEF7020}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ep012_OOP_Indexers", "Ep012_OOP_Indexers\Ep012_OOP_Indexers.csproj", "{24077841-96D9-45A2-994F-A6D7D2A3C55F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{943DC6DE-0B6B-4777-A222-70979EEF7020}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{943DC6DE-0B6B-4777-A222-70979EEF7020}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{943DC6DE-0B6B-4777-A222-70979EEF7020}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24077841-96D9-45A2-994F-A6D7D2A3C55F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24077841-96D9-45A2-994F-A6D7D2A3C55F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24077841-96D9-45A2-994F-A6D7D2A3C55F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24077841-96D9-45A2-994F-A6D7D2A3C55F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
