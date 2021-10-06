@@ -16,14 +16,14 @@ namespace Ep013_OPP_Delegates
         {
             var emps = new Employee[]
             {
-                new Employee {Id= 1, FullName = "Ahmed Abdallah", Gender = "M", TotalSales = 60000m},
-                new Employee {Id= 2, FullName = "Karim Waleed", Gender = "M", TotalSales = 53000m},
+                new Employee {Id= 1, FullName = "Ahmed Foaad", Gender = "M", TotalSales = 60000m},
+                new Employee {Id= 2, FullName = "Mahmoud Waleed", Gender = "M", TotalSales = 53000m},
                 new Employee {Id= 3, FullName = "Mohamed Yaseen", Gender = "M", TotalSales = 59000m},
-                new Employee {Id= 4, FullName = "Ferial Ahmed", Gender = "F", TotalSales = 78000m},
+                new Employee {Id= 4, FullName = "Sama Ahmed", Gender = "F", TotalSales = 78000m},
                 new Employee {Id= 5, FullName = "Nour Ehab", Gender = "F", TotalSales = 26000m},
                 new Employee {Id= 6, FullName = "Yasmin Hazem", Gender = "F", TotalSales = 15000m},
                 new Employee {Id= 7, FullName = "Yosuf ElSayed", Gender = "M", TotalSales = 35000m},
-                new Employee {Id= 8, FullName = "Jamila Waleed", Gender = "F", TotalSales = 49000m}
+                new Employee {Id= 8, FullName = "Jamila Fathy", Gender = "F", TotalSales = 49000m}
             };
 
             // creating an instance of the class Report
