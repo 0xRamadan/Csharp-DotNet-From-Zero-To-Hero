@@ -15,7 +15,6 @@ namespace Ep015_OOP_Operator_Overloading
             Money m1 = new Money(19);
             Money m2 = new Money(10);
 
-
             Money m3 = m1 + m2;
             Money m4 = m1 - m2;
 
