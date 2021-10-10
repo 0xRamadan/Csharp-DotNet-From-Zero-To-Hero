@@ -39,13 +39,11 @@ namespace Ep017_OOP_NestedTypes
                 A a = new A();
                 // here, you can access private members in this class, as long as this class within the parent(container) class A.
                 a.x = 10;
-
             }
         }
     }
 
     // another example 
-
     // Composition: is type of relationship between Classes -- (Car has a Motor) 
     class Employee
     {
