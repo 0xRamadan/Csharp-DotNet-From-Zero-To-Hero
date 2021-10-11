@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ep016_OPP_Finalizer", "Ep01
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ep017_OOP_NestedTypes", "Ep017_OOP_NestedTypes\Ep017_OOP_NestedTypes.csproj", "{8AD78CD3-EDFF-41CA-B116-3CEAC13FC3C3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ep018_TroubleShootingAndBreakPoint", "Ep018_TroubleShootingAndBreakPoint\Ep018_TroubleShootingAndBreakPoint.csproj", "{218848E3-1A93-46E3-AC6C-11BD35B999FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{8AD78CD3-EDFF-41CA-B116-3CEAC13FC3C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8AD78CD3-EDFF-41CA-B116-3CEAC13FC3C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8AD78CD3-EDFF-41CA-B116-3CEAC13FC3C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{218848E3-1A93-46E3-AC6C-11BD35B999FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{218848E3-1A93-46E3-AC6C-11BD35B999FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{218848E3-1A93-46E3-AC6C-11BD35B999FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{218848E3-1A93-46E3-AC6C-11BD35B999FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
