@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ep018_TroubleShootingAndBre
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ep019_StructVsClass", "E019_StructVsClass\Ep019_StructVsClass.csproj", "{27849222-ED5E-4752-BB39-89CFCCB8D420}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ep20_Enum_DataType", "Ep20_Enum_DataType\Ep20_Enum_DataType.csproj", "{104BEC2D-555B-45D4-8EE1-670387E0DFE1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{27849222-ED5E-4752-BB39-89CFCCB8D420}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27849222-ED5E-4752-BB39-89CFCCB8D420}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27849222-ED5E-4752-BB39-89CFCCB8D420}.Release|Any CPU.Build.0 = Release|Any CPU
+		{104BEC2D-555B-45D4-8EE1-670387E0DFE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{104BEC2D-555B-45D4-8EE1-670387E0DFE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{104BEC2D-555B-45D4-8EE1-670387E0DFE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{104BEC2D-555B-45D4-8EE1-670387E0DFE1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
