@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ep019_StructVsClass", "E019
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ep20_Enum_DataType", "Ep20_Enum_DataType\Ep20_Enum_DataType.csproj", "{104BEC2D-555B-45D4-8EE1-670387E0DFE1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ep21_Inheritance", "Ep21_Inheritance\Ep21_Inheritance.csproj", "{93326434-2678-4382-B71E-41E0B45EACEE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{104BEC2D-555B-45D4-8EE1-670387E0DFE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{104BEC2D-555B-45D4-8EE1-670387E0DFE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{104BEC2D-555B-45D4-8EE1-670387E0DFE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93326434-2678-4382-B71E-41E0B45EACEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93326434-2678-4382-B71E-41E0B45EACEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93326434-2678-4382-B71E-41E0B45EACEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93326434-2678-4382-B71E-41E0B45EACEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
