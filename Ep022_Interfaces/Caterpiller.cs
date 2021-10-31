@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Ep22_Interfaces
+namespace Ep022_Interfaces
 {
     class Caterpiller : Vehicle, IDrivable, ILoader
     {

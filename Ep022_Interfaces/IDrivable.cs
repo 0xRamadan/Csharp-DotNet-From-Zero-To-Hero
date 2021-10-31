@@ -1,4 +1,4 @@
-﻿namespace Ep22_Interfaces
+﻿namespace Ep022_Interfaces
 {
     interface IDrivable
     {

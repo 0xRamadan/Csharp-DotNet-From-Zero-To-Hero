@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Ep22_Interfaces;
 
 namespace Ep022_Interfaces
 {
@@ -11,7 +10,11 @@ namespace Ep022_Interfaces
     {
         static void Main(string[] args)
         {
-            
+            Honda honda = new Honda("Honda", "sportage", 2014);
+            honda.Move();
+            Caterpiller caterpiller = new Caterpiller("caterpiller", "giller", 2020);
+            caterpiller.Move();
+            caterpiller.Load();
             Console.ReadKey();
         }
     }

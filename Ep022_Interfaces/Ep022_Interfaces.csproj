@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{BB9ACB7F-1740-45B1-AC56-BE7BEAAA3566}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Ep22_Interfaces</RootNamespace>
-    <AssemblyName>Ep22_Interfaces</AssemblyName>
+    <RootNamespace>Ep022_Interfaces</RootNamespace>
+    <AssemblyName>Ep022_Interfaces</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

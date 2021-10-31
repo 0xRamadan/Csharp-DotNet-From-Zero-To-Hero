@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Ep22_Interfaces
+namespace Ep022_Interfaces
 {
     class Honda : Vehicle, IDrivable // concrete class
     {
