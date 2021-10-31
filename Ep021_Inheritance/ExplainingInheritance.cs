@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Ep21_Inheritance
+namespace Ep021_Inheritance
 {
     class ExplainingInheritance
     {

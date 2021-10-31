@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Ep21_Inheritance
+namespace Ep021_Inheritance
 {
     public class Employee
     {
