@@ -47,6 +47,8 @@
     <Compile Include="Honda.cs" />
     <Compile Include="IDrivable.cs" />
     <Compile Include="ILoader.cs" />
+    <Compile Include="IMaintenance.cs" />
+    <Compile Include="IMaintenanceCaterpiller.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Vehicle.cs" />

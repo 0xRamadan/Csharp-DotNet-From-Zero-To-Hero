@@ -2,7 +2,7 @@
 
 namespace Ep022_Interfaces
 {
-    class Caterpiller : Vehicle, IDrivable, ILoader
+    class Caterpiller : Vehicle, IDrivable, ILoader, IMaintenanceCaterpiller, IMaintenance
     {
         public Caterpiller(string brand, string model, int year) : base(brand, model, year)
         {
@@ -19,6 +19,7 @@ namespace Ep022_Interfaces
         {
             Console.WriteLine("Stoping...!");
         }
+        //
         // implementation of interface's method
         public void Load()
         {
@@ -28,6 +29,17 @@ namespace Ep022_Interfaces
         public void Unload()
         {
             Console.WriteLine("unloading...!");
+        }
+
+        // implementing the method explicitly
+        void IMaintenanceCaterpiller.Maintenance()
+        {
+            Console.WriteLine("Maintenace the Caterpiller...!");
+        }
+
+        void IMaintenance.Maintenance()
+        {
+            Console.WriteLine("Maintenace...!");
         }
     }
 }
