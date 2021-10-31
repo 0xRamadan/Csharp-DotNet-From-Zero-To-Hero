@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Ep20_Enum_DataType
+namespace Ep020_Enum_DataType
 {
     class Program
     {

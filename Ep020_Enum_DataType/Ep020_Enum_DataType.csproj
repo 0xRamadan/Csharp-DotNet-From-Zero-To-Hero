@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{104BEC2D-555B-45D4-8EE1-670387E0DFE1}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Ep20_Enum_DataType</RootNamespace>
-    <AssemblyName>Ep20_Enum_DataType</AssemblyName>
+    <RootNamespace>Ep020_Enum_DataType</RootNamespace>
+    <AssemblyName>Ep020_Enum_DataType</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
