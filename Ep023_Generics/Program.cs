@@ -61,7 +61,7 @@ namespace Ep023_Generics
             Console.WriteLine($"length: {people.Count}");
             Console.WriteLine($"Empty: {people.IsEmpty}");
 
-            // example: usign  Collection.Generics → library List<T>
+            // example: using  Collection.Generics → library List<T>
             Console.WriteLine("------------------------------");
             var people1 = new List<Person>();
             people1.Add(new Person("Ali", "Elsayed"));
@@ -70,7 +70,7 @@ namespace Ep023_Generics
             Console.WriteLine($"length: {people1.Count}");
             Console.WriteLine($"Empty: {people1.Count == 0}");
 
-            // example: usign  Collection library  → Arraylist<T> → this way is not type safe.
+            // example: using  Collection library  → Arraylist<T> → this way is not type safe.
             Console.WriteLine("------------------------------");
 
             var arr = new ArrayList();
@@ -111,7 +111,7 @@ namespace Ep023_Generics
 
 
     // where T : constraint 1, constraint 2, constraint 3, ...
-    // to add more reliablity
+    // to add more reliability
     class Any<T>
     {
         private T[] _items;
